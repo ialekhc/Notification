@@ -32,5 +32,5 @@ const notificationService = new NotificationService(
 
 notificationService.sendNotification(
     "Hello User! This is a notification message.",
-    ["user@example.com"]
+    ["meow@example.com"]
 );
