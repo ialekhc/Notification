@@ -1,0 +1,11 @@
+The notification project is started to build a Notification system that allows users to send 
+notification messages through multiple ways. It supports sending messages via email and sms.
+Currently, the project outlines the very basic structure. Following SOLID principle, make the
+necessary design improvements. Consider these things when making changes.
+
+Later the system should allow adding
+1. New Notification channels (Slack, Whatsapp)
+2. New validation rules ()
+3. Add Data transformation or formatting components. Formats could be different for Loggers, 
+notification channels.
+3. New Logging mechanism (File based, Database)
